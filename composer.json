@@ -1,0 +1,29 @@
+{
+    "name": "dong8yong8/phpqrcode",
+    "type": "library",
+    "description": "phpqrcode",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "homepage": "git@github.com:dong8yong8/phpqrcode.git",
+    "authors": [
+        {
+            "name": "dzhy",
+            "email": "743139662@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4" : {
+			"phpqrcode\\": "phpqrcode/src"
+		}
+    },
+    
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
