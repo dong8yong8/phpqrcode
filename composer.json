@@ -4,7 +4,7 @@
     "description": "phpqrcode",
     "version": "1.0.0",
     "license": "proprietary",
-    "homepage": "git@github.com:dong8yong8/phpqrcode.git",
+    "homepage": "https://github.com/dong8yong8/phpqrcode.git",
     "authors": [
         {
             "name": "dzhy",
